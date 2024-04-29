@@ -35,7 +35,7 @@ public class BaseClass<T> {
         this.createdDate = createdDate;
     }
 
-    public LocalDate getUpdatedDate() {
+    public LocalDate ggetUpdatedDate() {
         return updatedDate;
     }
 
